@@ -1,6 +1,6 @@
 function Chai(){
     return (
-        <h3>Hey FAMMM</h3>
+        <h1>Hey There!</h1>
     )
 }
 
