@@ -13,7 +13,7 @@ function App() {
 
   return (
     <>
-      <h1 className='bg-gray-400'>Tailwind Quick Gue</h1>
+      <h1 className='bg-gray-400'>Tailwind Quick Guide</h1>
       <br/>
       <Card Profile={myObj.LinkTo} userName={myObj.DispName}/>  
     </>
